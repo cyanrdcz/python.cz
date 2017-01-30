@@ -16,6 +16,18 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "CYAN Research & Development s.r.o.",
+                "url": "https://www.cyanrd.cz/cs/",
+                "company": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.5949156, 49.2241494]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Twisto",
                 "url": "https://www.twisto.cz/",
                 "company": true

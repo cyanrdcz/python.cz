@@ -740,6 +740,18 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "CYAN Research & Development s.r.o.",
+                "url": "https://www.cyanrd.cz/",
+                "company": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.224173, 16.594785]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "DANTEM s.r.o.",
                 "url": "http://www.dantem.cz/",
                 "company": true
